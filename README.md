@@ -2,8 +2,7 @@ Group : 2
 
 Section : 6
 
-Name:
-        Mystic Trades
+Project Name: Mystic Trades
 
         
 Members :
